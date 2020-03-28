@@ -1,0 +1,7 @@
+﻿  ABV.cpp
+e:\desktop\abv\abv\abv.cpp(18): warning C4018: “<”: 有符号/无符号不匹配
+e:\desktop\abv\abv\abv.cpp(23): warning C4244: “=”: 从“double”转换到“__int64”，可能丢失数据
+e:\desktop\abv\abv\abv.cpp(26): warning C4018: “<”: 有符号/无符号不匹配
+e:\desktop\abv\abv\abv.cpp(31): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+e:\desktop\abv\abv\abv.cpp(69): warning C4244: “=”: 从“double”转换到“__int64”，可能丢失数据
+  ABV.vcxproj -> E:\desktop\ABV\Debug\ABV.exe
